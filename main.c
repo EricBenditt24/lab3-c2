@@ -8,6 +8,7 @@
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h> 
+#include <math.h>
 
 
 int sum_n(int n);
